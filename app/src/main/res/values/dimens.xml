@@ -13,4 +13,7 @@
     <dimen name="tamañoImagenLlamadaHeightConfirmarDatos">64dp</dimen>
     <dimen name="tamañoTituloTelConfirmarDatos">16sp</dimen>
     <dimen name="tamañoTelConfirmarDatos">14sp</dimen>
+    <dimen name="corner_radius_cvContactos">4sp</dimen>
+    <dimen name="size_nombre_cardView">20sp</dimen>
+    <dimen name="size_tel_CV">14sp</dimen>
 </resources>
