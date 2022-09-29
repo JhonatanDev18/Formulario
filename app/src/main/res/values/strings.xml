@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Formulario</string>
+    <string name="app_name">Contactos</string>
     <string name="hint_nombreFormulario">Nombre completo</string>
     <string name="hint_fechaNacimiento">Fecha de nacimiento</string>
     <string name="hint_telefonoFormulario">Télefono</string>
